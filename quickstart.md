@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Quick Start
-icon: fa-home
+icon: fa-bolt
 order: 2
 ---
 
