@@ -1,2 +1,10 @@
 remote_theme: chrisbobbe/jekyll-theme-prologue
 collections: [sections]
+title: Terranetes
+subtitle: Documentation
+description: >-
+  This is the demo site for a Jekyll theme version of
+  HTML5 UP's sleek, responsive site template Prologue.
+author: Terranetes
+email: terranetes[]r0cket[]net
+avatar: https://avatars3.githubusercontent.com/u/53825247
