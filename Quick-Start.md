@@ -5,8 +5,6 @@ icon: fa-home
 order: 2
 ---
 
-# Quick-Start Guide
-
 **Practical Quick-Start Guide to create a simple 3 node cluster on OpenStack with LBaaS**
 
 Please substitute all `%VARIABLES` with according values.
